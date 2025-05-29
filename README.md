@@ -19,7 +19,7 @@
 ## Google Colab Setup 
 
 For running in Google Colab:
-1. Upload the `CarDetectionandTracking.ipynb` notebook to your Google Colab
+1. Upload the `CarDetectionTrack.ipynb` notebook to your Google Colab
 2. Open the notebook and run the cells sequentially
 3. Follow the instructions within the notebook to continue
 
